@@ -1,2 +1,2 @@
 # Security-Certification-Progress
-Vibe coded Sec+ Cert Progress sheet
+prototyped with AI to create a Security+ Cert Progress sheet
